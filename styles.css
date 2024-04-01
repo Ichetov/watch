@@ -14,15 +14,15 @@ body {
     font-family: 'Russo One';
   }
   
-/*   
+  
   .clockCase {
-    ПОДКЛЮЧАЕМ ФЛЕКСЫ
-    ПО ЦЕНТРУ
+    display: flex;
+    justify-content: center;
   }
   
   
   .buttonCase {
-    ПОДКЛЮЧАЕМ ФЛЕКСЫ
-    ПО ЦЕНТРУ
+    display: flex;
+    justify-content: center;
   }
-   */
+  
